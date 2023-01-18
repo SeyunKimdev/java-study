@@ -16,10 +16,10 @@ public class Test {
 //      salaryVO.setNetPay(9_000_000);
 //      
 //      salaryDAO.insert(salaryVO);	// 추가
-      
+//      
 //      salaryDAO.update(salaryVO); // 수정
 //      salaryDAO.delete(salaryVO); // 삭제
-      System.out.println(salaryDAO.showAll(salaryVO)); // 전체 조회
+//      System.out.println(salaryDAO.showAll(salaryVO)); // 전체 조회
 //      System.out.println(salaryDAO.show(salaryVO));
    }
 }
